@@ -23,18 +23,19 @@ This project is an IoT based smart Aquarium using telegram bot as a notification
 ## Prototype
 <p align="center">
   <img src="images/1.jpg" width="80%" />
-  <img src="images/2.jpg" width="50%" />
+  <img src="images/2.jpg" width="80%" />
   <img src="images/3.png" width="120%" />
 </p>
 
 ## Screenshot Telegram Bot
 <p align="center">
-  <img src="images/ssbot.png" width="500" />
-  <img src="images/ssalert.png" width="500" />
+  <img src="images/ssbot.png" width="250" />
+Alert TDS value high:
+  <img src="images/ssalert.png" width="250" />
 </p>
-### Store data to spreadsheet
+Store data to spreadsheet:
 <p align="center">
-  <img src="images/ssstoredata.png" width="500" />
+  <img src="images/ssstoredata.png" width="250" />
 </p>
 
 
