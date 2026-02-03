@@ -18,16 +18,19 @@ This project is an IoT based smart Aquarium using telegram bot as a notification
 - Motor Servo
 
 ## Wiring Diagram
-![Wiring](images/wiring.jpg)
+<img src="images/wiring.jpg" width="800" />
 
 ## Prototype
-![Prototype](images/1.jpg)
-![PrototypeBoard](images/2.jpg)
-![Prototype1](images/3.png)
+<p align="center">
+  <img src="images/1.jpg" width="80%" />
+  <img src="images/2.jpg" width="50%" />
+  <img src="images/3.png" width="120%" />
+</p>
 
 ## Screenshot Telegram Bot
-![SSTelegramBot1](images/ssbot.png)
-![SSTelegramBot2](images/ssalert.png)
-![SSTelegramBot3](images/ssstoredata.jpg)
-
+<p align="center">
+  <img src="images/ssbot.png" width="500" />
+  <img src="images/ssalert.png" width="500" />
+  <img src="images/ssstoredata.png" width="500" />
+</p>
 
